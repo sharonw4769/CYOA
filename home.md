@@ -1,2 +1,3 @@
 # You are giving free theme park tickets.....   
-## What do you do?
+## What do you do?   
+[I accept](../accept.md)
