@@ -1,4 +1,6 @@
 ![ol](../../../images/six1.jpg)
 ![lol](../../../images/six2.jpg)  
 
-[Click here for more information](https://www.sixflags.com/magicmountain)
+[Click here for more information](https://www.sixflags.com/magicmountain)  
+
+[Go back](../../Legoland/california.md)
