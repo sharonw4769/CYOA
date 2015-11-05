@@ -1,1 +1,1 @@
-![](../../../images/universol 2.jpg)
+![](../images/universol 2.jpg)
