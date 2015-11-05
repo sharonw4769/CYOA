@@ -1,1 +1,1 @@
-![](../../images/Lego.jpg)
+![legoimage1](../../../images/Lego.jpg)
