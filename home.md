@@ -4,4 +4,4 @@ What do you do?
 [I accept](accept/accept.md)   
 
 [I decline](decline/decline.md)   
-[go back](README.
+[go back](README.md)
