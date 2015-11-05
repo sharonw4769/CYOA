@@ -6,4 +6,4 @@ I choose....
 
 [California](California/california.md)
 
-[go back](../home.md)
+[Go back](../home.md)
