@@ -2,3 +2,5 @@
 ![o](../../../images/lego2.JPG)  
 
 [Click here for more information](http://california.legoland.com/)
+
+[Go back](../california.md)
