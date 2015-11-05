@@ -3,4 +3,4 @@
 
 [Click here for more information](https://www.sixflags.com/magicmountain)  
 
-[Go back](../../../Legoland/california.md)
+[Go back](../california.md)
