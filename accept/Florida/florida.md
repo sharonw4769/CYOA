@@ -1,6 +1,6 @@
 # What amusement park would you go to?     
-[Walt Disney World](https://disneyworld.disney.go.com/)   
+[Walt Disney World](Disney/disney.md)   
 
-[Universal Studios Orlando](https://www.universalorlando.com/)   
+[Universal Studios Orlando](Studios/studios.md)   
 
 [Go back](../accept.md)
