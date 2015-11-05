@@ -1,4 +1,4 @@
 # Giving the tickets away
 No one wants it..
 
-[Maybe next time](decline/home.md)
+[Maybe next time](../home.md)
