@@ -3,7 +3,7 @@
 
 [Give them away to a friend or family member](decline/GiveAway.md)
 
-[Burn the tickets](decline/Burn.md)    
+[Burn the tickets](Burn.md)    
 
 [Go back](../home.md)
 
