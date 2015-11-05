@@ -1,1 +1,1 @@
-![lol](.. cd/images/universol 2.jpg)
+![lol](../../../images/universol 2.jpg)
