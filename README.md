@@ -1,6 +1,6 @@
 # Amusement Parks  
 ## Giving free tickets to families!!!
-The purpose of this project is to work on collaboration and practice linking files together.   
+The purpose of this project is to practice collaboration and linking files together.   
 
 ---
 Click [here](home.md) to begin!
