@@ -1,1 +1,1 @@
-![](CYOA/images/Lego.jpg)
+![](../../images/Lego.jpg)
