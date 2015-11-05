@@ -1,7 +1,10 @@
-# I guess you dont want the tickets, but what you could do is the following.......     
-1. Sell them online   
-2. give then to a Friend/ Family members    
-3. Burn the tickets   
-[go back](../home.md)
+# I guess you don't want the tickets, but what you could.......     
+[Sell them online](decline/Sell.md)   
+
+[Give them away to a friend or family member](decline/GiveAway.md)
+
+[Burn the tickets](decline/Burn.md)    
+
+[Go back](../home.md)
 
 
