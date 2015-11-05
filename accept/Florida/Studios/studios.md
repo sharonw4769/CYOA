@@ -1,1 +1,2 @@
-![lol](../../../images/universol1.jpg)
+![o](../../../images/universol1.jpg)
+![l](../../../images/universol2.jpg)
